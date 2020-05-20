@@ -3,7 +3,7 @@
 set nowrap
 set linenumbers
 set constantshow
-set tabsize 4
+set tabsize 2
 set tabstospaces
 
 # Supports `YAML` files
